@@ -1,0 +1,90 @@
+
+body {
+    width: 100%;
+    height: 100%;
+}
+
+html {
+    width: 100%;
+    height: 100%;
+}
+
+.intro-section h1{
+    font-size: 72px;
+    line-height: 72px;
+    font-family: 'Pacifico', cursive;
+}
+.intro-section h1{
+    color: black;
+}
+.intro-section h1 span{
+    color: #72c04a;
+}
+.intro-section h2{
+    color: white;
+    font-size: 18px;
+    line-height: 24px;
+    font-family: 'Raleway Medium', sans-serif;
+}
+.navbar-brand>img {
+    background-image: url(../images/CLICKZOOgreen.png);
+    max-height: 100%;
+    height: 100%;
+    width: auto;
+    margin: 0 auto;
+}
+.navbar-default{
+    font-size: 28px;
+    text-transform: uppercase ;
+    border:none;
+    background: transparent;
+}
+.nav{
+    color: white;
+}
+
+.intro-section {
+    height: 100%;
+    padding-top: 150px;
+    text-align: center;
+    background: url("../images/Fogyosemite-1813241.jpg");
+}
+
+.about-section {
+    height: 100%;
+    padding-top: 150px;
+    text-align: center;
+    background: #2fbcba;
+}
+
+.services-section {
+    height: 100%;
+    padding-top: 150px;
+    text-align: center;
+    background: #e7d616;
+}
+.red-section {
+    height: 100%;
+    padding-top: 150px;
+    text-align: center;
+    background: #ca544b;
+}
+.contact-head>img {
+
+    max-height: 100%;
+    height: 100%;
+    width: 160px;
+    margin: 34px auto;
+
+
+    /* probably not needed anymore, but doesn't hurt */
+    /*-o-object-fit: contain;*/
+    /*object-fit: contain;*/
+
+}
+.contact-section {
+    height: 100%;
+    padding-top: 150px;
+    text-align: center;
+    background: #ffffff;
+}
